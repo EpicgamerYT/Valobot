@@ -14,7 +14,7 @@
 <p align="center">
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
-  <a href="#note">not</a> •
+  <a href="#note">note</a> •
   <a href="#DISCLAIMER">DISCLAIMER</a> •
 </p>
 
