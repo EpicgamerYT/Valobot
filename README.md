@@ -20,7 +20,7 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot](C:\Users\natha\Downloads\valorant-aimbot.jpg)
+![screenshot](https://i.ytimg.com/vi/4PMQEF2Jj9A/maxresdefault.jpg)
 
 ## Key Features
 
