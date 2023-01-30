@@ -20,7 +20,7 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
+![screenshot](C:\Users\natha\Downloads\valorant-aimbot.jpg)
 
 ## Key Features
 
@@ -31,22 +31,22 @@
 * Silent/Smooth Aimbot Mode
   - Allows for a smoother aimlock (undetectable when being spectated)
 * Skin Swapper 
-  -Allows you to change your in game skin (other players can see it :D)
+  - Allows you to change your in game skin (other players can see it :D)
 * Custom UI
-  -Clean and simple UI
-  -Switch between Dark/Light mode
-  -Add your own profile picture
-  -Three saved preset slots to pick from
+  - Clean and simple UI
+  - Switch between Dark/Light mode
+  - Add your own profile picture
+  - Three saved preset slots to pick from
 * Gun Buddy Spoof
-  -Get the RIOT gun buddy! (client side only)
+  - Get the RIOT gun buddy! (client side only)
 * Spoofer
-  -Never have to worry about HWID Bans again!
-  -Built in VPN (for extra protection)
+  - Never have to worry about HWID Bans again!
+  - Built in VPN (for extra protection)
 * Custom Crossair++
-  -Even more custom corssairs!
-  -Easily drag and drop your downloaded images (png)
+  - Even more custom corssairs!
+  - Easily drag and drop your downloaded images (png)
 * Discord Support
-  -[ValorantElite](https://discord.gg/9azMJmfKF3) Support
+  - [ValorantElite](https://discord.gg/9azMJmfKF3) Support
 
 ## How To Use
 
