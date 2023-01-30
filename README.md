@@ -52,7 +52,7 @@ To run this application, disable windows real time protection (may not download 
 
 > **Note**
 > You may need to download WinRAR to unzip the file(s)
-> --> Here you can [download])(https://www.win-rar.com) the latest installable version of WinRAR for Windows
+> --> Here you can [download](https://www.win-rar.com) the latest installable version of WinRAR for Windows
 >
 > **DISCLAIMER:**
 > **This program works for Windows 10 and Windows 11 ONLY!!!**
