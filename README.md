@@ -14,8 +14,8 @@
 <p align="center">
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
-  <a href="#note">Download</a> •
-  <a href="#DISCLAIMER">Download</a> •
+  <a href="#note">not</a> •
+  <a href="#DISCLAIMER">DISCLAIMER</a> •
 </p>
 
 ![screenshot](https://i.ytimg.com/vi/4PMQEF2Jj9A/maxresdefault.jpg)
