@@ -1,4 +1,4 @@
-#										Valobot
+#Valobot
 						Best Undetected Valorant Aimbot | For educational purposes only!!!
 
 <h1 align="center">
@@ -24,23 +24,29 @@
 
 ## Key Features
 
-* LivePreview - Make changes, See changes
-  - Instantly see what your Markdown documents look like in HTML as you create them.
-* Sync Scrolling
-  - While you type, LivePreview will automatically scroll to the current location you're editing.
-* GitHub Flavored Markdown  
-* Syntax highlighting
-* [KaTeX](https://khan.github.io/KaTeX/) Support
-* Dark/Light mode
-* Toolbar for basic Markdown formatting
-* Supports multiple cursors
-* Save the Markdown preview as PDF
-* Emoji support in preview :tada:
-* App will keep alive in tray for quick usage
-* Full screen mode
-  - Write distraction free.
-* Cross platform
-  - Windows, macOS and Linux ready.
+* Auto Headshot
+  - Instantly headshots your enemy when visible.
+* Auto Bodyshot
+  - Instanly fires weapon at the enemy's body (best to use if your worried about getting banned)
+* Silent/Smooth Aimbot Mode
+  - Allows for a smoother aimlock (undetectable when being spectated)
+* Skin Swapper 
+  -Allows you to change your in game skin (other players can see it :D)
+* Custom UI
+  -Clean and simple UI
+  -Switch between Dark/Light mode
+  -Add your own profile picture
+  -Three saved preset slots to pick from
+* Gun Buddy Spoof
+  -Get the RIOT gun buddy! (client side only)
+* Spoofer
+  -Never have to worry about HWID Bans again!
+  -Built in VPN (for extra protection)
+* Custom Crossair++
+  -Even more custom corssairs!
+  -Easily drag and drop your downloaded images (png)
+* Discord Support
+  -[ValorantElite](https://discord.gg/9azMJmfKF3) Support
 
 ## How To Use
 
