@@ -48,7 +48,7 @@
 
 ## How To Use
 
-To run this application, disable windows real time protection (may not download otherwise). First open file explorer and go to "This PC" --> "Local Disk" --> "New Folder" --> Name it "UC Valorant" --> drag the BOTH .dll files into the folder (NOT THE .EXE). Next, open CMD then drag and drop the Valoloader.dll followed by running the Valobot.exe file. Lastly drop the Valobot.dll into the CMD and open Valorant. PRESS F1 to toggle the menu! Enjoy :)
+To run this application, disable windows real time protection (may not download otherwise). **IMPORTANT** Run "Valobot.exe" to install requiments. Then open file explorer and go to "This PC" --> "Local Disk" --> "New Folder" --> Name it "UC Valorant" --> drag the BOTH .dll files into the folder (NOT THE .EXE). Next, open CMD then drag and drop the Valoloader.dll. Lastly drop the Valobot.dll into the CMD and open Valorant. PRESS F1 to toggle the menu! Enjoy :)
 
 > **Note**
 > You may need to download WinRAR to unzip the file(s)
