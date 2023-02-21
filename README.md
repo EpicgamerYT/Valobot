@@ -17,12 +17,8 @@
   <a href="#note">Note</a> •
   <a href="#DISCLAIMER">DISCLAIMER</a>
 </p>
-
+##Showcase:
 [![Demo CountPages alpha](https://i.ytimg.com/vi/4PMQEF2Jj9A/maxresdefault.jpg)](https://youtu.be/XGojNPVf30k)
-
-<video src='https://youtu.be/XGojNPVf30k' width=180/>
-
-
 
 ## Key Features
 
