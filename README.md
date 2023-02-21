@@ -50,4 +50,4 @@ To run this application, disable windows real time protection (may not download 
 > --> Here you can [download](https://www.win-rar.com) the latest installable version of WinRAR for Windows
 >
 > **DISCLAIMER:**
-> **This program works for Windows 10 and Windows 11 ONLY!!!**
+> **This program works for Windows 10 and Windows 11 ONLY! Educational Purposes Only! Use at YOUR own risk. I am NOT responsible for your actions.**
