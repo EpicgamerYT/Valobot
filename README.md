@@ -38,6 +38,8 @@
 * Custom Crossair++
   - Even more custom corssairs!
   - Easily drag and drop your downloaded images (png)
+* Showcase 
+  - [Showcase](https://youtu.be/XGojNPVf30k) Video
 * Discord Support
   - [ValorantElite](https://discord.gg/9azMJmfKF3) Support
 
