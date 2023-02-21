@@ -18,7 +18,7 @@
   <a href="#DISCLAIMER">DISCLAIMER</a> •
 </p>
 
-![screenshot](https://i.ytimg.com/vi/4PMQEF2Jj9A/maxresdefault.jpg)
+![video](https://streamable.com/ah4fve)
 
 ## Key Features
 
