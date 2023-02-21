@@ -1,6 +1,3 @@
-#Valobot
-						Best Undetected Valorant Aimbot | For educational purposes only!!!
-
 <h1 align="center">
   <br>
   <a href="https://cdn.onlinewebfonts.com/svg/img_513147.png"><img src="https://cdn.onlinewebfonts.com/svg/img_513147.png" alt="Valobot" width="200"></a>
@@ -13,9 +10,7 @@
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
-  <a href="#how-to-use">How To Use</a> •
-  <a href="#note">Note</a> •
-  <a href="#DISCLAIMER">DISCLAIMER</a>
+  <a href="#how-to-use">How To Use</a>
 </p>
 
 [![Demo CountPages alpha](https://i.ytimg.com/vi/4PMQEF2Jj9A/maxresdefault.jpg)](https://youtu.be/XGojNPVf30k)
