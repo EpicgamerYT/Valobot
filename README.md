@@ -18,7 +18,7 @@
   <a href="#DISCLAIMER">DISCLAIMER</a> •
 </p>
 
-![Watch the video](https://streamable.com/ah4fve)
+![Watch the video](https://youtu.be/XGojNPVf30k)
 
 ## Key Features
 
