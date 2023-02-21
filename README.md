@@ -18,7 +18,7 @@
   <a href="#DISCLAIMER">DISCLAIMER</a> •
 </p>
 
-[![Watch the video] (https://i.ytimg.com/vi/4PMQEF2Jj9A/maxresdefault.jpg)] (https://youtu.be/XGojNPVf30k)
+[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
 
 ## Key Features
 
